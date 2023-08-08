@@ -381,7 +381,7 @@ etag@~1.8.1:
 
 express@^4.18.2:
   version "4.18.2"
-  resolved "https://registry.npmjs.org/express/-/express-4.18.2.tgz"
+  resolved "https://registry.yarnpkg.com/express/-/express-4.18.2.tgz#3fabe08296e930c796c19e3c516979386ba9fd59"
   integrity sha512-5/PsL6iGPdfQ/lKM1UuielYgv3BUoJfz1aUwU9vHZ+J7gyvwdQXFEBIEIaxeGf0GIcreATNyBExtalisDbuMqQ==
   dependencies:
     accepts "~1.3.8"
@@ -579,7 +579,7 @@ mongodb@5.7.0:
 
 mongoose@^7.4.2:
   version "7.4.2"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-7.4.2.tgz#fcf23f59f410b187a5611a119ee22d0970235be7"
+  resolved "https://registry.npmjs.org/mongoose/-/mongoose-7.4.2.tgz"
   integrity sha512-sNolW2hyncwvWmZjIEIwAckjaSKtC1SE86zE1v2TKm3vPTRogZfBQf+3zLYYdrgrVTzoaoICieVpct9hjcn3EQ==
   dependencies:
     bson "^5.4.0"
